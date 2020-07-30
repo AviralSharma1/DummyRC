@@ -1,3 +1,3 @@
 ## This is a dummy Repository for **RC**
-
-Author - Aviral Sharma 
+  This repository may be used for future references.
+  Author - Aviral Sharma 
